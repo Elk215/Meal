@@ -1,0 +1,13 @@
+[2018-09-17 22:45:47] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
+[2018-09-17 22:45:47] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-09-17 22:55:14] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 10
+[2018-09-17 23:00:07] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-09-17 23:00:07] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-09-17 23:03:20] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 2
+[2018-09-17 23:09:11] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/clientconfig/default
+[2018-09-17 23:09:11] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-09-17 23:09:11] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-09-17 23:09:11] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-09-18 10:12:32] (ERROR @ D:\Program\OpenServer\domains\meal\core\components\pdotools\model\pdotools\pdotools.class.php : 977) Unexpected token '+' in expression in file:chunks/menu.tpl line 23, near '{if [[+' <- there in file:templates/index.tpl line 13, near '{include 'file:chunks/menu.tpl'' <- there in 5baf44a39e6c9e9cfc5ec71f0518efc6 line 1, near '{include "file:templates/index.tpl"' <- there
+[2018-09-18 10:13:30] (ERROR @ D:\Program\OpenServer\domains\meal\core\components\pdotools\model\pdotools\pdotools.class.php : 977) Unexpected token '{' in expression in file:chunks/menu.tpl line 23, near '{if {' <- there in file:templates/index.tpl line 13, near '{include 'file:chunks/menu.tpl'' <- there in 5baf44a39e6c9e9cfc5ec71f0518efc6 line 1, near '{include "file:templates/index.tpl"' <- there
+[2018-09-18 10:56:33] (ERROR @ D:\Program\OpenServer\domains\meal\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 2

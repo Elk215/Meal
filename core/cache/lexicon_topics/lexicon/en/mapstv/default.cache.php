@@ -1,0 +1,15 @@
+<?php  return array (
+  'mapstv' => 'Maps Tv',
+  'mapstv.street' => 'Street',
+  'mapstv.housenumber' => 'Housenumber',
+  'mapstv.zipcode' => 'Zipcode',
+  'mapstv.city' => 'City',
+  'mapstv.state' => 'State',
+  'mapstv.country' => 'Country',
+  'mapstv.generate' => 'Generate latitude & longitude and set the marker on the map',
+  'mapstv.latitude' => 'Latitude',
+  'mapstv.longitude' => 'Longitude',
+  'mapstv.error' => 'Location error',
+  'mapstv.error_msg' => 'The address provided has a low accuracy. Check the position of the marker.',
+  'setting_mapstv.api_key' => 'Google Maps API key',
+);
